@@ -1,0 +1,5 @@
+google-generativeai
+chromadb
+sentence-transformers
+langchain
+python-docx
