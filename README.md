@@ -121,7 +121,7 @@ npm start
 
 Visit: `http://127.0.0.1:8000`
 
-incase of any issue in running the file contact : 
+
 
 ## 💬 How to Use
 
